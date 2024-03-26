@@ -253,14 +253,13 @@ ul{
     margin: 20px;
   }
   .header {
-    padding: 10px;
     width: auto;
     height: auto;
   }
   .home {
     padding: 0 5%;
   }
-  .info, .hobbies, .skills, .p1, .p2, .p3,.home-content,.logo,.Social-media,.img,.navbar,.header {
+  .info, .hobbies, .skills, .p1, .p2, .p3,.home-content,.logo,.Social-media,.img,.navbar {
     padding: 20px;
     margin: 50px 10px;
     width: auto;
@@ -274,14 +273,13 @@ ul{
     margin: 30px;
   }
   .header {
-    padding: 15px;
     width: auto;
     height: auto;
   }
   .home {
     padding: 0 7%;
   }
-  .info, .hobbies, .skills, .p1, .p2, .p3,.home-content,.logo,.Social-media,.img,.navbar,.header{
+  .info, .hobbies, .skills, .p1, .p2, .p3,.home-content,.logo,.Social-media,.img,.navbar{
     padding: 30px;
     margin: 100px 20px;
     width: auto;
@@ -295,14 +293,13 @@ ul{
     margin: 40px;
   }
   .header {
-    padding: 20px;
     width: auto;
     height: auto;
   }
   .home {
     padding: 0 10%;
   }
-  .info, .hobbies, .skills, .p1, .p2, .p3,.home-content,.logo,.Social-media,.img,.navbar,.header{
+  .info, .hobbies, .skills, .p1, .p2, .p3,.home-content,.logo,.Social-media,.img,.navbar{
     margin: 10px; 
     padding: 40px;
     margin: 150px 30px;
