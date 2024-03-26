@@ -247,19 +247,6 @@ ul{
   float: left;
 }
 
-@media screen and (max-width: 375px){
-  .header,.home,.navbar,.home-content,.logo,.Social-media{
-    margin: 20px;
-  }
-  .info, .hobbies, .skills {
-    margin: 20px;
-  }
-  .p1, .p2, .p3 {
-    margin: 20px;
-  }
-}
-
-
 @media screen and (max-width: 576px) {
   /* Adjustments for screens up to 576px wide */
   * {
@@ -271,7 +258,7 @@ ul{
   .home {
     padding: 0 5%;
   }
-  .info, .hobbies, .skills, .p1, .p2, .p3,.home-content,.logo,.Social-media,.img {
+  .info, .hobbies, .skills, .p1, .p2, .p3,.home-content,.logo,.Social-media,.img,.navbar {
     padding: 20px;
     margin: 50px 10px;
     width: auto;
@@ -290,7 +277,7 @@ ul{
   .home {
     padding: 0 7%;
   }
-  .info, .hobbies, .skills, .p1, .p2, .p3,.home-content,.logo,.Social-media,.img{
+  .info, .hobbies, .skills, .p1, .p2, .p3,.home-content,.logo,.Social-media,.img,.navbar{
     padding: 30px;
     margin: 100px 20px;
     width: auto;
@@ -303,13 +290,13 @@ ul{
   * {
     margin: 40px;
   }
-  .header,.navbar {
+  .header {
     padding: 20px;
   }
   .home {
     padding: 0 10%;
   }
-  .info, .hobbies, .skills, .p1, .p2, .p3,.home-content,.logo,.Social-media,.img{
+  .info, .hobbies, .skills, .p1, .p2, .p3,.home-content,.logo,.Social-media,.img,.navbar{
     margin: 10px; 
     padding: 40px;
     margin: 150px 30px;
