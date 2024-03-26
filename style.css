@@ -258,7 +258,7 @@ ul{
   .home {
     padding: 0 5%;
   }
-  .info, .hobbies, .skills, .p1, .p2, .p3,.home-content,.logo,.Social-media,.img,.navbar {
+  .info, .hobbies, .skills, .p1, .p2, .p3,.home-content,.logo,.Social-media,.img,.navbar,.header {
     padding: 20px;
     margin: 50px 10px;
     width: auto;
@@ -277,7 +277,7 @@ ul{
   .home {
     padding: 0 7%;
   }
-  .info, .hobbies, .skills, .p1, .p2, .p3,.home-content,.logo,.Social-media,.img,.navbar{
+  .info, .hobbies, .skills, .p1, .p2, .p3,.home-content,.logo,.Social-media,.img,.navbar,.header{
     padding: 30px;
     margin: 100px 20px;
     width: auto;
@@ -296,7 +296,7 @@ ul{
   .home {
     padding: 0 10%;
   }
-  .info, .hobbies, .skills, .p1, .p2, .p3,.home-content,.logo,.Social-media,.img,.navbar{
+  .info, .hobbies, .skills, .p1, .p2, .p3,.home-content,.logo,.Social-media,.img,.navbar,.header{
     margin: 10px; 
     padding: 40px;
     margin: 150px 30px;
