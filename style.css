@@ -247,7 +247,7 @@ ul{
   float: left;
 }
 
-@media screen and (max-width: 576px){
+@media screen and (max-width: 375px){
   .info, .hobbies, .skills {
     margin: 20px;
   }
@@ -265,7 +265,7 @@ ul{
   }
 }
 
-@media screen and (max-width: 992px){
+@media screen and (max-width: 1200px){
   .info, .hobbies, .skills {
     margin: 40px;
   }
