@@ -241,15 +241,6 @@ ul{
   line-height: 1.5;
   margin-bottom: 10px;
 }
-.p1{
-  float: left;
-}
-.p2{
-  float: right;
-}
-.p3{
-  float: center;
-}
 .img{
   width: 500px;
   padding-top: 30px;
