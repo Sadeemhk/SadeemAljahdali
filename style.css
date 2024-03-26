@@ -259,25 +259,57 @@ ul{
   }
 }
 
-@media screen and (max-width: 768px){
-  .header,.home,.navbar,.home-content,.logo,.Social-media{
-    margin: 30px;
+
+@media screen and (max-width: 576px) {
+  * {
+    margin: 20px;
   }
-  .info, .hobbies, .skills {
-    margin: 30px;
+  .header {
+    padding: 10px;
   }
-  .p1, .p2, .p3 {
-    margin: 30px;
+  .home {
+    padding: 0 5%;
+  }
+  .info, .hobbies, .skills, .p1, .p2, .p3 {
+    padding: 20px;
+    margin: 50px 10px;
+    width: auto;
+    height: auto;
   }
 }
-@media screen and (max-width: 1200px){
-  .header,.home,.navbar,.home-content,.logo,.Social-media{
+
+@media screen and (min-width: 577px) and (max-width: 768px) {
+  * {
+    margin: 30px;
+  }
+  .header {
+    padding: 15px;
+  }
+  .home {
+    padding: 0 7%;
+  }
+  .info, .hobbies, .skills, .p1, .p2, .p3 {
+    padding: 30px;
+    margin: 100px 20px;
+    width: auto;
+    height: auto;
+  }
+}
+
+@media screen and (min-width: 769px) and (max-width: 992px) {
+  * {
     margin: 40px;
   }
-  .info, .hobbies, .skills {
-    margin: 40px;
+  .header {
+    padding: 20px;
   }
-  .p1, .p2, .p3 {
-    margin: 40px;
+  .home {
+    padding: 0 10%;
+  }
+  .info, .hobbies, .skills, .p1, .p2, .p3 {
+    padding: 40px;
+    margin: 150px 30px;
+    width: auto;
+    height: auto;
   }
 }
