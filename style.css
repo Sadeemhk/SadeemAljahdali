@@ -247,63 +247,28 @@ ul{
   float: left;
 }
 
-@media screen and (max-width: 576px) {
-  /* Adjustments for screens up to 576px wide */
-  * {
+@media screen and (max-width: 375px){
+  .info, .hobbies, .skills {
     margin: 20px;
   }
-  .header {
-    width: auto;
-    height: auto;
-  }
-  .home {
-    padding: 0 5%;
-  }
-  .info, .hobbies, .skills, .p1, .p2, .p3,.home-content,.logo,.Social-media,.img,.navbar {
-    padding: 20px;
-    margin: 50px 10px;
-    width: auto;
-    height: auto;
+  .p1, .p2, .p3 {
+    margin: 20px;
   }
 }
 
-@media screen and (min-width: 577px) and (max-width: 768px) {
-  /* Adjustments for screens between 577px and 768px wide */
-  * {
+@media screen and (max-width: 768px){
+  .info, .hobbies, .skills {
     margin: 30px;
   }
-  .header {
-    width: auto;
-    height: auto;
-  }
-  .home {
-    padding: 0 7%;
-  }
-  .info, .hobbies, .skills, .p1, .p2, .p3,.home-content,.logo,.Social-media,.img,.navbar{
-    padding: 30px;
-    margin: 100px 20px;
-    width: auto;
-    height: auto;
+  .p1, .p2, .p3 {
+    margin: 30px;
   }
 }
-
-@media screen and (min-width: 769px) and (max-width: 992px) {
-  /* Adjustments for screens between 769px and 992px wide */
-  * {
+@media screen and (max-width: 1200px){
+  .info, .hobbies, .skills {
     margin: 40px;
   }
-  .header {
-    width: auto;
-    height: auto;
-  }
-  .home {
-    padding: 0 10%;
-  }
-  .info, .hobbies, .skills, .p1, .p2, .p3,.home-content,.logo,.Social-media,.img,.navbar{
-    margin: 10px; 
-    padding: 40px;
-    margin: 150px 30px;
-    width: auto;
-    height: auto;
+  .p1, .p2, .p3 {
+    margin: 40px;
   }
 }
