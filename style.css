@@ -248,6 +248,9 @@ ul{
 }
 
 @media screen and (max-width: 375px){
+  .header,.home,.navbar,.home-content,.logo,.Social-media{
+    margin: 20px;
+  }
   .info, .hobbies, .skills {
     margin: 20px;
   }
@@ -257,6 +260,9 @@ ul{
 }
 
 @media screen and (max-width: 768px){
+  .header,.home,.navbar,.home-content,.logo,.Social-media{
+    margin: 30px;
+  }
   .info, .hobbies, .skills {
     margin: 30px;
   }
@@ -264,8 +270,10 @@ ul{
     margin: 30px;
   }
 }
-
 @media screen and (max-width: 1200px){
+  .header,.home,.navbar,.home-content,.logo,.Social-media{
+    margin: 40px;
+  }
   .info, .hobbies, .skills {
     margin: 40px;
   }
